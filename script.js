@@ -1,24 +1,24 @@
-// let str = 'JavaScript is fun'
+// const str = 'JavaScript is fun'
 
 // console.log(str.includes('fun'))
 
 
-// let user;
+// const user;
 
-// if ((user === null) || (user === undefined)) {
+// if (!user) {
 //     console.log('Сделал')
 // }
 
 
-// let firstName = 'John'
-// let lastName = 'Doe'
-// let occupation = 'software developer'
+// const firstName = 'John'
+// const lastName = 'Doe'
+// const occupation = 'software developer'
 // const result = `Hello, my name is ${firstName} ${lastName}. I am a ${occupation}`
 // console.log(result)
 
 
-// let user;
-// let user2 = null;
+// const user;
+// const user2 = null;
 
 // console.log(user === user2)
 // console.log(user == user2) // такой результат получился потому что при === сравнивается еще и тип данных, а null это объект
